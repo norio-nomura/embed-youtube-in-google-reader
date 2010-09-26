@@ -1,0 +1,17 @@
+{
+    "name":"Embed YouTube In Google Reader",
+    "version":"1.0",
+    "description":"Embed YouTube's rss feed videos in Google Reader",
+    "icons":{
+        "16":"Icon-16.png",
+        "48":"Icon-48.png",
+        "128":"Icon-128.png"
+    },
+    "content_scripts":[
+        {
+            "matches":["https://www.google.com/reader/view/*","http://www.google.com/reader/view/*"],
+            "js":["beforeLoad.js"],
+            "run_at":"document_start"
+        }
+    ]
+}
