@@ -4,16 +4,18 @@
 <dict>
 	<key>Author</key>
 	<string>Norio Nomura</string>
+	<key>Builder Version</key>
+	<string>7534.51.21</string>
 	<key>CFBundleDisplayName</key>
-	<string>Embed YouTube In Google Reader</string>
+	<string>Embed YouTube™ In Google Reader™</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.github.norio-nomura.embed-youtube-in-google-reader</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -32,7 +34,7 @@
 		</array>
 	</dict>
 	<key>Description</key>
-	<string>Embed YouTube's rss feed videos in Google Reader</string>
+	<string>Embed YouTube™'s rss feed videos in Google Reader™</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
